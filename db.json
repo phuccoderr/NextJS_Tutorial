@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "The project",
+      "stargazers_count": 29
+    },
+    {
+      "id": 2,
+      "title": "json-server 2",
+      "description": "The project 4",
+      "stargazers_count": 16
+    }
+  ]
+}
